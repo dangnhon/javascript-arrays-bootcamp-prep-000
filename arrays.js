@@ -4,6 +4,7 @@ function addElementToBeginningOfArray(array, element) {
   var cities = ["seattle", "NY", "LA"];
   var addCity= "miami";
   return cities.unshift("miami");
+  consolo.log
 }
   
 
