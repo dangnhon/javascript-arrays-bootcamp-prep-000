@@ -1,9 +1,9 @@
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
-function addElementToBeginningOfArray(string) {
+function addElementToBeginningOfArray(element) {
   var cities = ["seattle", "NY", "LA"];
   
-  return cities.unshift(string);
+  return cities.unshift(element);
 }
   
 
